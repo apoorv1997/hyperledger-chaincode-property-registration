@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="chaincode">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/hyperledger-chaincode-property-registration-master/property-registration/chaincode.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
